@@ -2,6 +2,8 @@
 
 Example of using react-native for **android**, **iphone**, and **web**
 
+Demo not working entirely for ios yet :( - ran outta time
+
 ## HOW TO USE
 Because web is still not fully supported by expo *yet* and I haven't had time to fix this:
 
