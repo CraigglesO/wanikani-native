@@ -1,0 +1,54 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "name": "Wanikani-Native",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web --non-interactive",
+    "eject": "expo eject",
+    "test": "node ./node_modules/jest/bin/jest.js --watchAll"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/samples": "2.1.1",
+    "@react-navigation/web": "^1.0.0-alpha.7",
+    "axios": "^0.18.0",
+    "expo": "^33.0.0-alpha.web.3",
+    "localforage": "^1.7.3",
+    "mobx": "^5.9.4",
+    "mobx-react": "^5.4.3",
+    "moment": "^2.24.0",
+    "react": "16.5.0",
+    "react-dom": "^16.8.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-fontawesome": "^6.0.1",
+    "react-native-media-queries": "^0.3.0",
+    "react-native-web": "^0.11.2",
+    "react-navigation": "3.5.0-alpha.0",
+    "snake-case": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-plugin-react-native-classname-to-dynamic-style": "^0.22.0",
+    "babel-plugin-react-native-platform-specific-extensions": "^1.1.1",
+    "babel-preset-expo": "^5.0.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-flowtype": "^3.7.0",
+    "jest-expo": "^32.0.0",
+    "react-native-css-transformer": "^1.2.4"
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "plugins": [
+      "flowtype"
+    ]
+  },
+  "private": true,
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  }
+}

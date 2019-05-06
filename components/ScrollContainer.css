@@ -1,0 +1,14 @@
+.container: {
+  flex: 1;
+  backgroundColor: '#eee';
+}
+
+.scrollContainer: {
+  paddingTop: 10;
+}
+
+.contentContainer: {
+  width: 1170px;
+  marginLeft: auto;
+  marginRight: auto;
+}
