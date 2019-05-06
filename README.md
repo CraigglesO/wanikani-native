@@ -19,7 +19,9 @@ yarn add expo@latest
 yarn start
 ```
 
-Shocase:
+<br>
+<br>
+# Showcase:
 
 
 ## Web Full size
@@ -31,5 +33,5 @@ Shocase:
 ## Web small
 ![alt text](https://github.com/CraigglesO/wanikani-native/blob/master/showcase/small.png)
 
-## iphone
+## iPhone
 ![alt text](https://github.com/CraigglesO/wanikani-native/blob/master/showcase/iphone.png)
