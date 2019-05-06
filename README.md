@@ -21,6 +21,7 @@ Shocase:
 
 
 ## Web Full size
+![alt text](https://github.com/CraigglesO/wanikani-native/blob/master/showcase/full.png)
 
 ## Web medium [tablet]
 
