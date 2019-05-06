@@ -24,7 +24,10 @@ Shocase:
 ![alt text](https://github.com/CraigglesO/wanikani-native/blob/master/showcase/full.png)
 
 ## Web medium [tablet]
+![alt text](https://github.com/CraigglesO/wanikani-native/blob/master/showcase/med.png)
 
 ## Web small
+![alt text](https://github.com/CraigglesO/wanikani-native/blob/master/showcase/small.png)
 
 ## iphone
+![alt text](https://github.com/CraigglesO/wanikani-native/blob/master/showcase/iphone.png)
