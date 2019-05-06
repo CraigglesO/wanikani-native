@@ -16,7 +16,7 @@
     "@expo/samples": "2.1.1",
     "@react-navigation/web": "^1.0.0-alpha.7",
     "axios": "^0.18.0",
-    "expo": "^33.0.0-alpha.web.3",
+    "expo": "^32.0.6",
     "localforage": "^1.7.3",
     "mobx": "^5.9.4",
     "mobx-react": "^5.4.3",

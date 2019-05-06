@@ -2,6 +2,8 @@
 import { AsyncStorage, Platform } from 'react-native'
 import Localforage from 'localforage'
 
+// AsyncStorage.clear()
+
 class Storage {
   db: AsyncStorage | Localforage
   constructor () {
